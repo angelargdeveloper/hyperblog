@@ -2,4 +2,4 @@ Esta es la
 historia de Git a travez de
 los comandos
 
-en Platzi
+en Platzi para ver en el repositorio
